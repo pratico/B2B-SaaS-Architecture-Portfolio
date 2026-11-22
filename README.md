@@ -34,9 +34,11 @@ Privacy-first Linux microservices and native **Chrome Extensions (Manifest V3)**
 ---
 
 ### 🧪 Zero-Risk Evaluation (100% Asynchronous — No Calls Needed)
-Want to verify output quality on your own data? Send a **messy 50-row sample** from a supplier CSV/XML/JSON feed via ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & video demos; English B2B delivery*). —I will clean, normalize, and enrich it with SEO descriptions **for free within 24 hours**.
+Want to verify output quality on your own data? Send a **messy 50-row sample** from a supplier CSV/XML/JSON feed via [antoniangeloflore.com](https://antoniangeloflore.com) — I will clean, normalize, and enrich it with SEO descriptions **for free within 24 hours**.
 
-📫 **Contacts:** For custom ETL pipelines, webhook stabilization, or White-Label licensing, visit [antoniangeloflore.com](https://antoniangeloflore.com).
+🔒 **Proprietary Software Asset (All Rights Reserved)**: This repository serves as a functional and architectural showcase within the Professional Portfolio (https://antoniangeloflore.com — **note:** *video pitches are currently in Italian; both the portfolio portal and B2B technical delivery are available in English*). For operational security and NDA compliance, the source code and internal packaging are not publicly exposed.
+
+📫 **Contacts:** For custom ETL pipelines, webhook stabilization, or White-Label licensing, visit [antoniangeloflore.com](https://antoniangeloflore.com) or connect on [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
 
 ---
 
